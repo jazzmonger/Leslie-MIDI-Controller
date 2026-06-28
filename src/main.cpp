@@ -5,7 +5,7 @@
 static constexpr uint8_t kMidiRxPin = D1;           // GPIO5
 static constexpr uint8_t kTriggerPin = D4;          // GPIO2
 static constexpr uint8_t kSpeedIndicatorPin = D5;   // GPIO14 — high=fast, low=slow
-static constexpr uint8_t kTriggerCc = 87;           // another cc message the Nord can send dependin on how footswitch is set.  
+static constexpr uint8_t kTriggerCc = 87;           // another cc message the Nord can send depending on how footswitch option is set in he Nord.  
 static constexpr uint8_t kSpeedCc = 108;            // I use "Toggle Rotor" for the footsw function and that sends cc108.
 static constexpr uint32_t kPulseMs = 250;
 

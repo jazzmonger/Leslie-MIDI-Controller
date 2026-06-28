@@ -1,6 +1,8 @@
 # Leslie-MIDI-Controller
 True MIDI speed control for your Leslie.
 
+Use in conjunction with Leslie Foootswitch controller https://github.com/jazzmonger/Leslie-Dual-Motor-Footswitch-Controller
+
 MIDI interpreter takes output from the Nord (any MIDI KB really) and watches for CC108=45(slow) and CC1008=137 (fast) then pulses a relay to control the speed.  See my other repository for the footswitch speed controller.  It could just as easily toggle on/off instead of pulse to directly control a 147.
 
 Basic Operation

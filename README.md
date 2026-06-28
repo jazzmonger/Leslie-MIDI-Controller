@@ -14,6 +14,7 @@ I normally use ESPHome to create these types of controllers, but the MIDI Arduin
 Basic operation:
 NS4-->MIDI Interpreter--> 1/4" jack that triggers the Leslie speed.
 
-To record and playback I use a CME Pro U6 MIDI router:
-<img width="845" height="436" alt="image" src="https://github.com/user-attachments/assets/d727c6f2-0bcc-4b46-b62b-0c38eb122513" />
+To record and playback the MIDI signals I use a CME Pro U6 MIDI router:
+<img width="807" height="416" alt="image" src="https://github.com/user-attachments/assets/1783d18e-e8e1-42fa-b0e6-0e2e59b9ab87" />
+
 

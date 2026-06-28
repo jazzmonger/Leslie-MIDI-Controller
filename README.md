@@ -11,7 +11,7 @@ https://www.facebook.com/61550956205984/videos/1311657740688039/?idorvanity=4679
 Recording into Logic Pro and then playing back using MIDI to control the speed
 https://www.facebook.com/61550956205984/videos/pcb.3182860038591573/1530799352055109
 
-I normally use ESPHome to create these types of controllers, but the MIDI Arduino libraries are redily available so thats what I used this time. And I just told Claude to build it and debug it.  
+I normally use ESPHome to create these types of controllers, but the MIDI Arduino libraries are redily available so thats what I used this time. And I just told Claude to build it and debug it.  For this I used an ESP8266 D1 Mini.
 
 Basic operation:
 NS4-->MIDI Interpreter--> 1/4" jack that triggers the Leslie speed.

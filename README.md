@@ -19,5 +19,5 @@ NS4-->MIDI Interpreter--> 1/4" jack that triggers the Leslie speed.
 To record and playback the MIDI signals I use a CME Pro U6 MIDI router:
 <img width="807" height="416" alt="image" src="https://github.com/user-attachments/assets/1783d18e-e8e1-42fa-b0e6-0e2e59b9ab87" />
 
-The controller inside the Leslie sends a signal to an external LED when in fast mode.  I use this signal to synchronize the on/off operation when using MIDI control.
+The controller inside the Leslie sends a signal to an external LED when in fast mode.  I use this signal to synchronize the slow/fast operation when using MIDI control. You have to know what your state is before changing state!
 

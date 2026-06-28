@@ -22,3 +22,7 @@ To record and playback the MIDI signals I use a CME Pro U6 MIDI router:
 
 The controller inside the Leslie sends a signal to an external LED when in fast mode.  I use this signal to synchronize the slow/fast operation when using MIDI control. You have to know what your state is before changing state!
 
+I used this cool MIDI breakout board - cheap too!
+<img width="968" height="640" alt="image" src="https://github.com/user-attachments/assets/c93ddbc0-d140-4e63-809b-54d59ff2c9c3" />
+D0 on that board (MIDI RXD) goes to D4 on the ESP - it could not be more simple.
+

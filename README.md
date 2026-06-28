@@ -1,4 +1,4 @@
-# Leslie-MIDI-Controller
+# Leslie MIDI Speed Controller
 True MIDI speed control for your Leslie.
 
 Use in conjunction with Leslie Foootswitch controller https://github.com/jazzmonger/Leslie-Dual-Motor-Footswitch-Controller
